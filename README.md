@@ -1,5 +1,6 @@
 
-# Make use of internet with Python tutorials
+# Python web tutorials
+*Make use of internet with Python* 
 
 ## Lesson 1
 
