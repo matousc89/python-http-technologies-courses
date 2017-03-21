@@ -3,7 +3,7 @@
 
 ## Based on Tutorials
 
-* [Making HTTP requests](/Making HTTP requests.ipynb)
+* [Making HTTP requests](./Making HTTP requests.ipynb)
 * [HTML and JSON processing](HTML and JSON processing.ipynb)
 * [Simple HTTP server](Simple HTTP server.ipynb)
 
