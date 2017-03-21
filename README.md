@@ -2,14 +2,22 @@
 # Python web tutorials
 *Make use of internet with Python* 
 
-## Lesson 1
+## List of tutorials
 
-### Based on Tutorials
+* [Making HTTP requests](Making_HTTP_requests.ipynb)
+* [HTML and JSON processing](HTML_and_JSON_processing.ipynb)
+* [Simple HTTP server](Simple_HTTP_server.ipynb)
+
+## Lessons
+
+### Lesson 1
+
+#### Based on Tutorials
 
 * [Making HTTP requests](Making_HTTP_requests.ipynb)
 * [HTML and JSON processing](HTML_and_JSON_processing.ipynb)
 
-### Task 1
+#### Task 1
 
 1. Obtain numerical data from any API - most of the APIs will require to sign up. Example APIs:
     * [Oanda](https://www.oanda.com/) - Forex market prices API
@@ -19,7 +27,7 @@
 3. Plot the data.
 4. Do something with data (calculate autocorrelation function, remove trend, estimate mean value na standard deviation, try to predict data with any simple model).
 
-### Task 2
+#### Task 2
 
 For this task use HTMLParser of ElementTree XML API. Data can be obtained with Requests library.
 
@@ -29,14 +37,14 @@ For this task use HTMLParser of ElementTree XML API. Data can be obtained with R
 4. Make some operations with the page content (most important paragraphs) - histogram of used words, count of individual letters, etc.
 
 
-## Lesson 2
+### Lesson 2
 
-### Based on Tutorials
+#### Based on Tutorials
 
 * [Making HTTP requests](Making_HTTP_requests.ipynb)
 * [HTML and JSON processing](HTML_and_JSON_processing.ipynb)
 * [Simple HTTP server](Simple_HTTP_server.ipynb)
 
-### Task 1
+#### Task 1
 
 1. Create simple server
