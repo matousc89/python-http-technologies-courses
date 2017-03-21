@@ -11,9 +11,12 @@
 
 ### Task 1
 
-1. Obtain numerical data from any API (market values, temperatures, etc.) - most of the APIs will require to sign up.
+1. Obtain numerical data from any API - most of the APIs will require to sign up. Example APIs:
+    * [Oanda](https://www.oanda.com/) - Forex market prices API
+    * [Open Notify](http://open-notify.org/) - open source project to provide a simple programming interface for some of NASA’s       awesome data
+
 2. Record short history from the API via for loop with defined sampling (sleep function will be enough, no need to use cron).
-3. Plot the data $data = f(timestamp)$.
+3. Plot the data.
 4. Do something with data (calculate autocorrelation function, remove trend, estimate mean value na standard deviation, try to predict data with any simple model).
 
 ### Task 2
