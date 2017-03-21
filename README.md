@@ -4,9 +4,9 @@
 
 ## List of tutorials
 
-* [Making HTTP requests](Making_HTTP_requests.ipynb)
-* [HTML and JSON processing](HTML_and_JSON_processing.ipynb)
-* [Simple HTTP server](Simple_HTTP_server.ipynb)
+* [Making HTTP requests](Making_HTTP_requests.ipynb) - how to get data from Internet with Requests library
+* [HTML and JSON processing](HTML_and_JSON_processing.ipynb) - basic operations with HTML and JSON
+* [Simple HTTP server](Simple_HTTP_server.ipynb) - how to run simple HTTP server
 
 ## Lessons
 
