@@ -3,9 +3,9 @@
 
 ## Based on Tutorials
 
-* [Making HTTP requests](./Making HTTP requests.ipynb)
-* [HTML and JSON processing](HTML and JSON processing.ipynb)
-* [Simple HTTP server](Simple HTTP server.ipynb)
+* [Making HTTP requests](Making_HTTP_requests.ipynb)
+* [HTML and JSON processing](HTML_and_JSON_processing.ipynb)
+* [Simple HTTP server](Simple_HTTP_server.ipynb)
 
 ## Task 1
 
