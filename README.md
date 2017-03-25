@@ -1,6 +1,5 @@
 
 # Python web tutorials
-*Make use of internet with Python* 
 
 ## List of tutorials
 
@@ -25,17 +24,18 @@
 
 2. Record short history from the API via for loop with defined sampling (sleep function will be enough, no need to use cron).
 3. Plot the data.
-4. Do something with data (calculate autocorrelation function, remove trend, estimate mean value na standard deviation, try to predict data with any simple model).
+4. Do something with data (calculate autocorrelation function, remove trend, estimate mean value and standard deviation, try to predict data with any simple model).
 
 #### Task 2
 
-For this task use HTMLParser of ElementTree XML API. Data can be obtained with Requests library.
+For this task use parser of your choice. Data can be obtained with Requests library.
 
-1. Download data from any wiki page (where is enough conent, for example: https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
+1. Download data from any wiki page (it should be there enough conent, for example: https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 2. Print out the most import paragraphs of wiki page content.
 3. Print out all references - pairs of `href` content (link) and `<a></a>` content (displayed text) 
 4. Make some operations with the page content (most important paragraphs) - histogram of used words, count of individual letters, etc.
 
+The resulting script should work universaly for any Wikipedia page.
 
 ### Lesson 2
 
@@ -47,4 +47,9 @@ For this task use HTMLParser of ElementTree XML API. Data can be obtained with R
 
 #### Task 1
 
-1. Create simple server
+Create simple server, the server should be able to:
+
+1. Respond with full documentation (in HTML) when `/help` url is accessed.
+2. Check if the user is autorized.
+3. Provide some basic functions of your choice (store data, return data, do some computations with user provided data, etc.)
+
