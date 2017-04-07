@@ -6,6 +6,7 @@
 * [Making HTTP requests](Making_HTTP_requests.ipynb) - how to get data from Internet with Requests library
 * [HTML and JSON processing](HTML_and_JSON_processing.ipynb) - basic operations with HTML and JSON
 * [Simple HTTP server](Simple_HTTP_server.ipynb) - how to run simple HTTP server
+* [Catching errors and unit tests](Unittests.ipynb) - how to catch errors and perform unit tests
 
 ## Lessons
 
@@ -52,4 +53,7 @@ Create simple server, the server should be able to:
 1. Respond with full documentation (in HTML) when `/help` url is accessed.
 2. Check if the user is autorized.
 3. Provide some basic functions of your choice (store data, return data, do some computations with user provided data, etc.)
+
+
+
 
